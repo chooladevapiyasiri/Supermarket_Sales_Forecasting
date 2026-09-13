@@ -32,12 +32,33 @@ Descriptive analysis was carried out across time, outlet, and item dimensions to
 ![image](images/1.png)
 
 - **Sales by week of month:** Week 4 recorded the highest sales (143,012 units), consistent with a salary-cycle effect, while Week 1–3 declined gradually (139,840 → 126,990 units); Week 5 (the partial week beyond day 28) added 45,950 units.
+
+![image](images/2.png)
+
 - **Sales by day of week:** weekends were strongest — Saturday (98,054 units) and Sunday (90,398 units) — with Monday lowest (77,016 units).
+
+![image](images/4.png)
+
 - **Sales by outlet:** Outlet D (28.2%) and Outlet A (27.3%) led total sales share, followed by Outlet C (23%), with Outlet E lowest (6.2%).
+
+![image](images/5.png)
+
 - **Top item categories:** Ambient Instant Noodles and Ambient Liquid Milk led sales, with Rice also prominent as a staple category.
+
+![image](images/6.png)
+
 - **Department × day-of-week:** Grocery was the most consistently popular department, peaking on Sunday, Saturday, and Friday; Chilled peaked on weekends; Beverages showed more variation through the week.
+
+![image](images/7.png)
+
 - **Outlet area and parking lots:** sales were mapped against outlet area and number of parking lots to explore facility-driven demand differences.
+
+![image](images/8.png)
+
 - **Outlet profile category:** outlets with a "Moderate" customer profile (450,207 units) outsold those with a "High" profile (374,327 units).
+
+![image](images/11.png)
+
 
 ## Hypothesis Testing
 
