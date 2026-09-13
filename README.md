@@ -53,7 +53,10 @@ Descriptive analysis was carried out across time, outlet, and item dimensions to
 
 - **Outlet area and parking lots:** sales were mapped against outlet area and number of parking lots to explore facility-driven demand differences.
 
-![image](images/8.png)
+![image](images/9.png)
+
+
+![image](images/10.png)
 
 - **Outlet profile category:** outlets with a "Moderate" customer profile (450,207 units) outsold those with a "High" profile (374,327 units).
 
