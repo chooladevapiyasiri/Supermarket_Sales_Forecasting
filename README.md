@@ -1,4 +1,3 @@
-# Supermarket Sales Forecasting — Next-Week Demand Prediction
 
 ## Executive Summary
 
